@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="8a5dd02c1ba7a0502455c84e0d4bcb4c" sys_domain="global" table="x_snc_guided_tour_users" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-12 18:25:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>425dd02c1ba7a0502455c84e0d4bcb4e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_guided_tour_users" name="x_snc_guided_tour_users" sys_domain="global" view="3b4d142c1ba7a0502455c84e0d4bcb10">8a5dd02c1ba7a0502455c84e0d4bcb4c</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_guided_tour_users" sys_domain="global" view="3b4d142c1ba7a0502455c84e0d4bcb10">334d142c1ba7a0502455c84e0d4bcb16</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-12 18:25:42</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-12 18:25:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>465dd02c1ba7a0502455c84e0d4bcb50</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_guided_tour_users" name="x_snc_guided_tour_users" sys_domain="global" view="3b4d142c1ba7a0502455c84e0d4bcb10">8a5dd02c1ba7a0502455c84e0d4bcb4c</sys_ui_form>
+            <sys_ui_section caption="TAB1" display_value="TAB1" name="x_snc_guided_tour_users" sys_domain="global" view="3b4d142c1ba7a0502455c84e0d4bcb10">4e5dd02c1ba7a0502455c84e0d4bcb4e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-12 18:25:42</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-12 18:25:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>446d142c1ba7a0502455c84e0d4bcb0e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_guided_tour_users" name="x_snc_guided_tour_users" sys_domain="global" view="3b4d142c1ba7a0502455c84e0d4bcb10">8a5dd02c1ba7a0502455c84e0d4bcb4c</sys_ui_form>
+            <sys_ui_section caption="TAB2" display_value="TAB2" name="x_snc_guided_tour_users" sys_domain="global" view="3b4d142c1ba7a0502455c84e0d4bcb10">0c6d142c1ba7a0502455c84e0d4bcb0b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-12 18:25:50</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-12 18:25:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c66d542c1ba7a0502455c84e0d4bcb3c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_guided_tour_users" name="x_snc_guided_tour_users" sys_domain="global" view="3b4d142c1ba7a0502455c84e0d4bcb10">8a5dd02c1ba7a0502455c84e0d4bcb4c</sys_ui_form>
+            <sys_ui_section caption="TAB3" display_value="TAB3" name="x_snc_guided_tour_users" sys_domain="global" view="3b4d142c1ba7a0502455c84e0d4bcb10">026d142c1ba7a0502455c84e0d4bcb41</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-12 18:25:58</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_snc_guided_tour_users</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-12 18:25:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8a5dd02c1ba7a0502455c84e0d4bcb4c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_guided_tour_users</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Guided Tour" source="x_snc_guided_tour">4bfb10e81ba7a0502455c84e0d4bcb8b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Guided Tour">4bfb10e81ba7a0502455c84e0d4bcb8b</sys_scope>
+            <sys_update_name>sys_ui_form_sections_8a5dd02c1ba7a0502455c84e0d4bcb4c</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-12 18:25:42</sys_updated_on>
+            <sys_user/>
+            <view display_value="Guided View" name="guided_view">3b4d142c1ba7a0502455c84e0d4bcb10</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

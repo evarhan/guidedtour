@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_tour_step">
+    <sys_embedded_tour_step action="INSERT_OR_UPDATE">
+        <action>true</action>
+        <action_event>click</action_event>
+        <action_target/>
+        <action_target_ref/>
+        <active>true</active>
+        <content><![CDATA[Welcome to Guided Tour!]]></content>
+        <guide display_value="Guided Tour Test">273edc2c1ba7a0502455c84e0d4bcb8a</guide>
+        <implicit>false</implicit>
+        <link/>
+        <name>Introduction</name>
+        <options/>
+        <order>0</order>
+        <placement>bottom</placement>
+        <skippable>false</skippable>
+        <step_type>intro</step_type>
+        <sys_class_name>sys_embedded_tour_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-12 18:30:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>095e106c1ba7a0502455c84e0d4bcb4b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Introduction</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Guided Tour" source="x_snc_guided_tour">4bfb10e81ba7a0502455c84e0d4bcb8b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Guided Tour">4bfb10e81ba7a0502455c84e0d4bcb8b</sys_scope>
+        <sys_update_name>sys_embedded_tour_step_095e106c1ba7a0502455c84e0d4bcb4b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-12 18:30:00</sys_updated_on>
+        <target/>
+        <target_ref/>
+        <title><![CDATA[Guided Tour Test]]></title>
+        <ui_version>dynamic</ui_version>
+        <view/>
+        <window/>
+    </sys_embedded_tour_step>
+    <sys_translated_text action="delete_multiple" query="documentkey=095e106c1ba7a0502455c84e0d4bcb4b"/>
+</record_update>

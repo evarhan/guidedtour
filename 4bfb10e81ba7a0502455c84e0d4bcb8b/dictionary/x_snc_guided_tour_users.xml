@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Users" max_length="40" name="x_snc_guided_tour_users" type="collection">
+        <element label="Address" max_length="4000" name="u_address" type="string"/>
+        <element label="Email" max_length="40" name="u_email" type="string"/>
+        <element label="First Name" max_length="40" name="u_first_name" type="string"/>
+        <element label="Last Name" max_length="40" name="u_last_name" type="string"/>
+        <element label="Phone" max_length="40" name="u_phone" type="string"/>
+        <element label="Social Security Number" max_length="40" name="u_ssn" type="string"/>
+    </element>
+</database>
